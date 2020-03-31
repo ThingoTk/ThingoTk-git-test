@@ -1,1 +1,5 @@
-# ThingoTk-git-test
+# git practice
+
+---
+
+## gitの練習をしていくよ
